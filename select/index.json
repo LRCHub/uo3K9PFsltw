@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "IKAROS",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-23T03:41:02.326872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IKAROS",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_IKAROS_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Rave The Reqviem",
+      "has_synced": true,
+      "path": "select/02_Ikaros_Rave_The_Reqviem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Seven Impale",
+      "has_synced": false,
+      "path": "select/03_Ikaros_Seven_Impale.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Scandinavian Music Group feat. Tuomo",
+      "has_synced": false,
+      "path": "select/04_Ikaros_Scandinavian_Music_Group_feat._Tuomo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ring My Bell (Main Vocal Ikaros/Hayami Saori)",
+      "artist": "blue drops",
+      "has_synced": false,
+      "path": "select/05_Ring_My_Bell_(Main_Vocal_Ikaros_Hayami_Saori)_blue_drops.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Second (Main Vocal Ikaros/Hayami Saori)",
+      "artist": "blue drops",
+      "has_synced": true,
+      "path": "select/06_Second_(Main_Vocal_Ikaros_Hayami_Saori)_blue_drops.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "IKAROS",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/07_IKAROS_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Kaunis Kuolematon",
+      "has_synced": true,
+      "path": "select/08_Ikaros_Kaunis_Kuolematon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Björn Afzelius",
+      "has_synced": false,
+      "path": "select/09_Ikaros_Björn_Afzelius.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Janek Ledecký",
+      "has_synced": false,
+      "path": "select/10_Ikaros_Janek_Ledecký.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "IKAROS",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/11_IKAROS_SiM.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/12_Ikaros_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Död Mark",
+      "has_synced": true,
+      "path": "select/13_Ikaros_Död_Mark.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Ektor",
+      "has_synced": true,
+      "path": "select/14_Ikaros_Ektor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Björn Afzelius",
+      "has_synced": true,
+      "path": "select/15_Ikaros_Björn_Afzelius.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ikaros (feat. Theo John)",
+      "artist": "Jokrates",
+      "has_synced": true,
+      "path": "select/16_Ikaros_(feat._Theo_John)_Jokrates.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ikaros (feat. Tuomo) (feat. Tuomo)",
+      "artist": "Scandinavian Music Group",
+      "has_synced": true,
+      "path": "select/17_Ikaros_(feat._Tuomo)_(feat._Tuomo)_Scandinavian_Music_Group.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Mustan Kuun Lapset",
+      "has_synced": true,
+      "path": "select/18_Ikaros_Mustan_Kuun_Lapset.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ikaros",
+      "artist": "Bogfinkevej",
+      "has_synced": false,
+      "path": "select/19_Ikaros_Bogfinkevej.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IKAROS",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_IKAROS_King_Gnu.txt"
+    }
+  ]
+}
